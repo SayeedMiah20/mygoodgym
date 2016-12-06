@@ -2,7 +2,8 @@
   font-size: 34px;
   font-family: Futura, Verdana, sans-serif;
   text-decoration: none;
-  color: #333333;  
+  color: #333333; 
+  margin: 12px 300px;
 }
 
 .logo {
@@ -22,6 +23,7 @@
   font-size: 16px;
   position: relative;
   bottom: 15px;
+  margin: 0px 300px;
 }
 
 #About {
