@@ -1,32 +1,77 @@
 .Headings {
-  font-size: 30px;
-  font-family: gadget, sans-serif;
-  text-decoration: underline;
-    
+  font-size: 34px;
+  font-family: Futura, Verdana, sans-serif;
+  text-decoration: none;
+  color: #333333;  
 }
 
 .logo {
-  border-style: solid ;
   padding: 5px;
   margin-bottom: 5px;
   margin-top:  0;
+  float:  left;
 }
 
-a{
+.links{
   color: red;
   text-decoration: none;
 }
 
 .Storyp {
   font-family: Tahoma, Geneva, sans-serif;
-  font-size: 13px;
+  font-size: 16px;
   position: relative;
   bottom: 15px;
-  font-weight: ;
 }
 
-.About {
+#About {
   font-size: 45px;
-  Font-family: gadget, sans-serif;
-  shadow
+  Font-family: Futura, Verdana, sans-serif;
+  color: #333333;
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #ededed; 
+  overflow: hidden;
+}
+
+.nav1 {
+  float: left;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: none;
+  font-family: Futura, Verdana, sans-serif;
+  color:  #6b6b6b;
+    
+}
+
+.nav1:hover {
+  color: black;
+}
+
+#NB {
+  Height: 100px;
+  width: 125px;
+  position: relative;
+  top: -31px;
+  left: -10px;
+}
+
+#Nesta {
+  Height: 50px;
+  width: 190px;
+  margin-left: 0px;
+  margin-bottom: 50px;
+}
+
+#BLF {
+  Height: 160px;
+  Width: 160px;
+}
+
+#SupportBT {
+  margin-top: 50px;
 }
