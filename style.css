@@ -1,3 +1,7 @@
+.MainBody {
+ margin: 0 300px; 
+}
+
 .Headings {
   font-size: 34px;
   font-family: Futura, Verdana, sans-serif;
