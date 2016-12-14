@@ -1,5 +1,10 @@
 body {
- background-image: "https://unsplash.com/?photo=BL1ipcOKmmE";
+  background: url(https://unsplash.com/?photo=BL1ipcOKmmE) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 }
 
 .MainBody {
