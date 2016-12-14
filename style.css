@@ -1,15 +1,10 @@
-body {
-  background: url(https://unsplash.com/?photo=BL1ipcOKmmE) no-repeat center center fixed; 
+.MainBody {
+ margin: 0 300px; 
+    background: url(https://unsplash.com/?photo=BL1ipcOKmmE) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-}
-}
-
-.MainBody {
- margin: 0 300px; 
-}
+  background-size: cover;}
 
 .Headings {
   font-size: 34px;
